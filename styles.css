@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin: 8px;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #ff6600;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc5500;
+}
+
+main {
+    padding: 20px;
+}
+
+.character-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+}
+
+.character-name {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.character-info {
+    margin-top: 8px;
+}
+
+.character-info span {
+    font-weight: bold;
+}
+
+.character-info p {
+    margin: 0;
+}
